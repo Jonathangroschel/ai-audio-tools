@@ -88,6 +88,7 @@
 - [Soundful](https://soundful.com/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - AI platform for generating royalty-free, high-quality soundtracks customizable by mood, tempo, and brand identity for commercial use.
 - [SongGPT](https://songgpt.com/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - AI song generator for producing full tracks from short text prompts with genre selection.
 - [Tunee](https://tunee.ai/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - AI music and lyric generation platform with access to multiple underlying generative models for varied output styles.
+- [Tunely](https://tunelyai.com) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Text-to-song generator that turns a one-line description or your own lyrics into a full song with vocals and synced lyrics, plus remix tools to add vocals to your own beat or re-sing a song in another language.
 
 [↑ Back to top](#quick-navigation)
 
